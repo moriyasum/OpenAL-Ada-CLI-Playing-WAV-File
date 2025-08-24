@@ -14,4 +14,6 @@ OpenAL Ada 1.1.1
 
 Details are here: https://n7sd.com/ada1-2/openal-ada-cli-playing-wav-file/
 
+Execution Screen
+
 <img width="532" height="498" alt="Screenshot Play_WAV" src="https://github.com/user-attachments/assets/6dc39e3a-5598-42c0-ae20-b179ca8ce628" />
